@@ -1,0 +1,12 @@
+body{
+background-color: rgb(228, 233, 241);
+}
+span{
+font-size: smaller;
+margin-left: 10px;
+}
+span{
+font-size: large;
+margin-right: 10px;
+float:right;
+}
